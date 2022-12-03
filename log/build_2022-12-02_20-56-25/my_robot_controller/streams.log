@@ -1,0 +1,19 @@
+[1.185s] Invoking command in '/home/logolica99/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/logolica99/ros2_ws/build/my_robot_controller/prefix_override:/home/logolica99/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/logolica99/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[1.692s] running develop
+[1.950s] running egg_info
+[1.950s] writing my_robot_controller.egg-info/PKG-INFO
+[1.950s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.951s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.951s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.951s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.956s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.959s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.964s] running build_ext
+[1.965s] Creating /home/logolica99/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.968s] Installing draw_circle script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.968s] Installing test_node script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.969s] 
+[1.970s] Installed /home/logolica99/ros2_ws/build/my_robot_controller
+[1.970s] running install_data
+[1.970s] copying package.xml -> /home/logolica99/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[2.090s] Invoked command in '/home/logolica99/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/logolica99/ros2_ws/build/my_robot_controller/prefix_override:/home/logolica99/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/logolica99/ros2_ws/build/my_robot_controller/build --no-deps install_data

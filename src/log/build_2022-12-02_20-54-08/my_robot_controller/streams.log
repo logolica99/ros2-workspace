@@ -1,0 +1,25 @@
+[3.717s] Invoking command in '/home/logolica99/ros2_ws/src/build/my_robot_controller': PYTHONPATH=/home/logolica99/ros2_ws/src/build/my_robot_controller/prefix_override:/home/logolica99/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/logolica99/ros2_ws/src/build/my_robot_controller/build --no-deps install_data
+[5.487s] running develop
+[6.723s] running egg_info
+[6.724s] creating my_robot_controller.egg-info
+[6.731s] writing my_robot_controller.egg-info/PKG-INFO
+[6.733s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[6.738s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[6.739s] writing requirements to my_robot_controller.egg-info/requires.txt
+[6.740s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[6.741s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[6.748s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[6.752s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[6.757s] running build_ext
+[6.759s] Creating /home/logolica99/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[6.765s] Installing draw_circle script to /home/logolica99/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[6.767s] Installing test_node script to /home/logolica99/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[6.769s] 
+[6.770s] Installed /home/logolica99/ros2_ws/src/build/my_robot_controller
+[6.772s] running install_data
+[6.773s] creating /home/logolica99/ros2_ws/src/install/my_robot_controller/share/ament_index
+[6.773s] creating /home/logolica99/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index
+[6.774s] creating /home/logolica99/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[6.777s] copying resource/my_robot_controller -> /home/logolica99/ros2_ws/src/install/my_robot_controller/share/ament_index/resource_index/packages
+[6.778s] copying package.xml -> /home/logolica99/ros2_ws/src/install/my_robot_controller/share/my_robot_controller
+[6.950s] Invoked command in '/home/logolica99/ros2_ws/src/build/my_robot_controller' returned '0': PYTHONPATH=/home/logolica99/ros2_ws/src/build/my_robot_controller/prefix_override:/home/logolica99/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/logolica99/ros2_ws/src/build/my_robot_controller/build --no-deps install_data
