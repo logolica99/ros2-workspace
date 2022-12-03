@@ -1,0 +1,21 @@
+[2.402s] Invoking command in '/home/logolica99/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/logolica99/ros2_ws/build/my_robot_controller/prefix_override:/home/logolica99/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/logolica99/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[3.600s] running develop
+[4.377s] running egg_info
+[4.377s] writing my_robot_controller.egg-info/PKG-INFO
+[4.379s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[4.381s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[4.382s] writing requirements to my_robot_controller.egg-info/requires.txt
+[4.382s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[4.390s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[4.393s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[4.398s] running build_ext
+[4.399s] Creating /home/logolica99/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[4.402s] Installing color_subscriber script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[4.402s] Installing draw_circle script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[4.403s] Installing pose_subscriber script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[4.404s] Installing test_node script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[4.405s] Installing turtle_controller script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[4.406s] 
+[4.406s] Installed /home/logolica99/ros2_ws/build/my_robot_controller
+[4.406s] running install_data
+[4.553s] Invoked command in '/home/logolica99/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/logolica99/ros2_ws/build/my_robot_controller/prefix_override:/home/logolica99/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/logolica99/ros2_ws/build/my_robot_controller/build --no-deps install_data
