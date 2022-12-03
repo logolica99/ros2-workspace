@@ -1,0 +1,20 @@
+[1.702s] Invoking command in '/home/logolica99/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/logolica99/ros2_ws/build/my_robot_controller/prefix_override:/home/logolica99/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/logolica99/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[2.357s] running develop
+[2.874s] running egg_info
+[2.874s] writing my_robot_controller.egg-info/PKG-INFO
+[2.876s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[2.877s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[2.878s] writing requirements to my_robot_controller.egg-info/requires.txt
+[2.879s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[2.884s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[2.886s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[2.890s] running build_ext
+[2.890s] Creating /home/logolica99/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[2.893s] Installing color_subscriber script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[2.894s] Installing draw_circle script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[2.894s] Installing pose_subscriber script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[2.895s] Installing test_node script to /home/logolica99/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[2.896s] 
+[2.896s] Installed /home/logolica99/ros2_ws/build/my_robot_controller
+[2.896s] running install_data
+[3.003s] Invoked command in '/home/logolica99/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/logolica99/ros2_ws/build/my_robot_controller/prefix_override:/home/logolica99/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/logolica99/ros2_ws/build/my_robot_controller/build --no-deps install_data
